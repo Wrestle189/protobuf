@@ -83,3 +83,5 @@ The complete documentation for Protocol Buffers is available via the
 web at:
 
 https://developers.google.com/protocol-buffers/
+
+self part: examples/jane_test and examples/net_test
